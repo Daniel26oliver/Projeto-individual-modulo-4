@@ -7,4 +7,4 @@ Sim. Funcionários, Pagamentos, Pedidos e Vendas
 Clientes, Produtos e Funcionários.
 
 ## Como essas entidades estão relacionadas?
-O Cliente 
+O Cliente faz um pedido de algum produto, realiza o pagamento ao funcionário, o funcionário registra a venda.
